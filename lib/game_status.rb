@@ -50,6 +50,6 @@ def winner(board)
     return nil
   else
     winning_combination = won?(board)
-    return winning_combination[0]
+    return board[winning_combination[0]]
   end
 end
