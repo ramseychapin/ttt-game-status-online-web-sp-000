@@ -23,8 +23,3 @@ def won?(board)
   end
   return false
 end
-
-
-#win_index_1 = winning_combination[0]
-#win_index_2 = winning_combination[1]
-#win_index_3 = winning_combination[2]
